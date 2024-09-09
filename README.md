@@ -7,14 +7,14 @@ A simple and interactive To-Do List web application that allows users to add tas
 2. Voice Recognition: Use voice commands to add tasks to your list. The application recognizes speech and converts it to text using the Web Speech API.
 3. Visual Feedback: Clear visual indicators inform users when voice recognition is active, when it is processing, and when tasks have been added.
 
-**Technologies Used**
+## **Technologies Used**
 
 1. HTML: Structure of the web page.
 2. CSS: Styling of the web page.
 3. JavaScript: Adding interactivity and voice recognition features.
 4. Web Speech API: For voice recognition.
 
-**How to Use**
+## **How to Use**
 
 1. Clone the Repository
 2. Open index.html in a web browser. You can do this by double-clicking the file or by serving it using a local server.
@@ -30,6 +30,6 @@ A simple and interactive To-Do List web application that allows users to add tas
 
 ## **Compatibility**
 **Browsers:** This application is compatible with modern browsers that support the Web Speech API, such as Google Chrome and Microsoft Edge. It may not work in other browsers like Firefox or Safari.
-Known Issues
+## **Known Issues**
 **Browser Support:** The Web Speech API may not be fully supported in all browsers. Make sure to use a compatible browser for the best experience.
-Microphone Access: Ensure your browser has permission to access the microphone.
+**Microphone Access:** Ensure your browser has permission to access the microphone.
