@@ -29,7 +29,11 @@ A simple and interactive To-Do List web application that allows users to add tas
    
 
 ## **Compatibility**
+
 **Browsers:** This application is compatible with modern browsers that support the Web Speech API, such as Google Chrome and Microsoft Edge. It may not work in other browsers like Firefox or Safari.
+
 ## **Known Issues**
+
 **Browser Support:** The Web Speech API may not be fully supported in all browsers. Make sure to use a compatible browser for the best experience.
+
 **Microphone Access:** Ensure your browser has permission to access the microphone.
