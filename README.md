@@ -18,12 +18,13 @@ A simple and interactive To-Do List web application that allows users to add tas
 
 1. Clone the Repository
 2. Open index.html in a web browser. You can do this by double-clicking the file or by serving it using a local server.
-3. Add Tasks:
+3. Alternatively, You can test it by following this link: https://harshparandkar.github.io/ToDo-List-with-Voice-Recognition/
+4. Add Tasks:
 
    Type a task into the input field and click the "Add Task" button to add it to the list.
     Click the "🎤 Add with Voice" button and speak into the microphone to add a task using voice recognition.
 
-4. Visual Indicators:
+5. Visual Indicators:
 
     The status message will change to indicate when voice recognition is listening, processing, or has successfully added a task.
    
